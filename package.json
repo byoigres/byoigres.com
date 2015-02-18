@@ -1,0 +1,14 @@
+{
+  "name": "byoigres.com",
+  "version": "0.1.0",
+  "description": "byoigres.com page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Flores",
+  "license": "ISC",
+  "dependencies": {
+    "ghost": "0.5.8"
+  }
+}
